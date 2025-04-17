@@ -10,7 +10,7 @@ from config.settings import get_openai_client
 from schema.validation import validate_response, llm_response_schema
 
 st.title("Clinical Note Wrangler")
-st.markdown("Extract structured JSON data from messy clinical notes using LLMs.")
+st.markdown("Extract structured JSON data from unstructured clinical notes using LLMs.")
 
 model = st.selectbox("Model", ["gpt-3.5-turbo", "gpt-4-turbo"])
 temp = st.slider("Temperature", 0.0, 1.0, 0.9)
