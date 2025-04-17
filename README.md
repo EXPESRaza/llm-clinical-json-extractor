@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-blueviolet)](https://platform.openai.com/docs)
 
-A lightweight LLM-powered app to extract structured JSON from messy clinical notes.
+A lightweight LLM-powered app to extract structured JSON from unstructured clinical notes.
 
 ## Setup
 
