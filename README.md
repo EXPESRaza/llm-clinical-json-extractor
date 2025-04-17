@@ -1,4 +1,4 @@
-# llm-clinical-json-extractor
+# Clinical Note Wrangler
 
 A lightweight LLM-powered app to extract structured JSON from messy clinical notes.
 
@@ -34,6 +34,9 @@ streamlit run app.py
 ## For the DME Healthcare Team
 
 Tweak system prompts to better extract fields like device, diagnosis, SpO2, usage, etc.
+
+## Application UI
+![image](https://github.com/user-attachments/assets/704942c5-87e5-4f1e-bcb3-caac104a8a1f)
 
 ---
 
